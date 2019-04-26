@@ -7,7 +7,7 @@ Your Name:
 
 Your ID:
 
-#### Due: Friday May 18, 2019; 11:59 PM
+#### Due: Friday May 17, 2019; 11:59 PM
 #### Note: *This homework is to be done individually!*
 
 You will implement the K-means clustering algorithm in Spark and use it to analyze political campaign data from the Federal Election Commission.
