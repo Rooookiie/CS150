@@ -325,7 +325,7 @@ We can get a rough idea of what value this is by trying many values and plotting
 it. The "[elbow
 method](https://en.wikipedia.org/wiki/Determining_the_number_of_clusters_in_a_data_set#The_Elbow_Method)"
 is a good heuristic for an optimal value. Using this heuristic, what is a reasonable value of _k_? 
-Try values of _k_ from 2 to 30 in increments of 2.  To speed up these experiments set the convergence 
+Try values of _k_ from 2 to 30 in increments of 4.  To speed up these experiments set the convergence 
 `epsilon` threshold for `k_means` to 0.001.
 
 After determining this value, you can finally visualize campaign contributions
