@@ -332,7 +332,7 @@ After determining this value, you can finally visualize campaign contributions
 to different candidates as geographical clusters. Congratulations on finishing
 the last project in this course!
 
-**Note: Part 3 should not take more than 20 minutes to run in total on the hive machines.**
+**Note: Part 3 may take a long time.**
 
 
 # Testing
