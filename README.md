@@ -3,9 +3,9 @@ CS150 Database and Data Mining hw3 (*adapted from UCB CS186)
 
 Please type your Chinese name and ID.
 
-Your Name:
+Your Name: 张军
 
-Your ID:
+Your ID: 12903136
 
 #### Due: Friday May 17, 2019; 11:59 PM
 #### Note: *This homework is to be done individually!*
